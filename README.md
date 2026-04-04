@@ -99,23 +99,6 @@ I'm a **Computer Science & Engineering (Data Science) graduate** from Hyderabad,
 
 </div>
 
----
-
-## 🏅 Certifications
-
-<div align="center">
-
-| 🏆 Certification | 🏛️ Issuer |
-|:---|:---|
-| 🐍 Python Programming | Google |
-| 📊 Data Analytics Internship | EduSkills |
-| 💼 SkillsBuild Internship | IBM |
-| ⚙️ C++ Programming | Great Learning |
-| 🖥️ C \| PHP \| MySQL \| HTML \| CSS | Spoken Tutorial (IIT Bombay) |
-
-</div>
-
----
 
 ## 📬 Let's Connect
 
