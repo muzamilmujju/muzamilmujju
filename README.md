@@ -5,8 +5,8 @@ I'm a Computer Science graduate specializing in Data Science.
 I enjoy working with Python, SQL and data. I'm interested in learning new technologies and building projects that help me improve my skills.
 
 ### About Me
-- 🎓 B.Tech in Computer Science (Data Science)
-- 💻 Interested in Python, Data Analytics and Machine Learning
+- 🎓 B.Tech in Computer Science and Engineering (Data Science)
+- 💻 Interested in Python, Data Analytics, Data Engineer, Artificial Intelligence and Machine Learning
 - 🌱 Currently learning and improving my technical skills
 - 📍 Hyderabad, Telangana, India
 
