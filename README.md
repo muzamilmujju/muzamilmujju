@@ -8,7 +8,7 @@ I enjoy working with Python, SQL and data. I'm interested in learning new techno
 - 🎓 B.Tech in Computer Science (Data Science)
 - 💻 Interested in Python, Data Analytics and Machine Learning
 - 🌱 Currently learning and improving my technical skills
-- 📍 India
+- 📍 Hyderabad, Telangana, India
 
 ### Skills
 
