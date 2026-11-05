@@ -25,7 +25,8 @@ I'm working on personal projects to improve my programming and data analysis ski
 
 - LinkedIn: https://linkedin.com/in/md-muzamil-ahmad
 - GitHub: https://github.com/muzamilmujju
-- Email: mujjumuzamil07@gmail.com
+- Email: 218r1a6741@gmail.com
+- Portfolio: https://muzamilmujju.github.io/Portfolio-Website
 
 ---
 
